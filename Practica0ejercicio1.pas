@@ -7,7 +7,7 @@ begin
 	write ('Ingrese el segundo numero: ');
 	read (numero2);
 	if (numero1 > numero2) then 
-		write (numero1,' ', numero2);
-	if (numero1 < numero2) then
+		write (numero1,' ', numero2)
+	else
 		write (numero2,' ', numero1);
 end.
