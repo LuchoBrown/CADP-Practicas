@@ -4,17 +4,15 @@
     misma secuencia}
 program ejercicio11;
 var
-    i,num,max,orden,ordenmax:integer;
+    i,num,max,ordenmax:integer;
 begin
     max:=-10000;
-    orden:=0;
     for i:= 1 to 10 do begin
         writeln('Ingrese un numero');
         read(num);
-        orden:=orden+1;
         if (num > max) then
             max:= num;
-            ordenmax:=orden;
+            ordenmax:=i;
     end;
     writeln('El mayor numero leido fue: ',max,',en la posicion ',ordenmax);
 end.

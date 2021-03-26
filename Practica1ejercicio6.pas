@@ -12,10 +12,13 @@ begin
 	alumnosDest:=0;
 	while (legajo<>-1) do begin
 		cantAlumnos:= cantAlumnos+1;
-		if (promedio>6.5) then
-			alumnosPromo:= alumnosPromo+1;
-		if (promedio>8.5) and (legajo<2500)then
+		if ((promedio>8.5) and (legajo<2500))then begin
 			alumnosDest:=alumnosDest+1;
+			alumnosPromo:= alumnosPromo+1;
+		end
+		else
+			if (promedio>6.5) then
+				alumnosPromo:= alumnosPromo+1;
 		writeln('Ingrese numero de legajo:' );
 		read(legajo);
 		writeln('Ingrese promedio: ');
