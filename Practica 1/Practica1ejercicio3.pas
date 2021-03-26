@@ -1,7 +1,8 @@
+{3. Realizar un programa que lea 3 números enteros y los imprima en orden descendente.}
 program ejercicio3;
 var
 	num1,num2,num3,min,med,max:integer;
-begin
+begin {Seguramente haya una forma mas eficiente, pero paja}
 	writeln('Ingrese el primer numero: ');
 	read(num1);
 	writeln('Ingrese el segundo numero: ');

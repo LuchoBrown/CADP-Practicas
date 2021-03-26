@@ -1,3 +1,7 @@
+{2. Modifique el programa anterior para que el mensaje de salida muestre la suma de ambos
+números:
+a. Utilizando una variable adicional
+b. Sin utilizar una variable adicional}
 program ejercicioDosB;
 var 
 	numero1, numero2, suma: integer;

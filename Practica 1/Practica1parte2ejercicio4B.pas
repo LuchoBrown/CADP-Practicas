@@ -1,4 +1,6 @@
-{b. Modifique el ejercicio anterior para que, en vez de leer 1000 números, la lectura finalice al leer
+{4. Realizar un programa que lea 1000 números enteros desde teclado. Informar en pantalla cuáles son
+los dos números mínimos leídos.
+b. Modifique el ejercicio anterior para que, en vez de leer 1000 números, la lectura finalice al leer
 el número 0, el cual no debe procesarse}
 program ejercicio13b;
 var

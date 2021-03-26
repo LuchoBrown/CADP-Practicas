@@ -1,4 +1,4 @@
-{1) Realice un programa que lea 10 números e informe cuál fue el mayor número leído.
+{2. Realice un programa que lea 10 números e informe cuál fue el mayor número leído.
     Modifique el programa anterior para que, además de informar el mayor número leído, se
     informe el número de orden, dentro de la secuencia, en el que fue leído. Por ejemplo, si se lee la
     misma secuencia}

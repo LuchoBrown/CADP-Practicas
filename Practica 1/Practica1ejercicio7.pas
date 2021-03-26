@@ -1,3 +1,7 @@
+{7. Realizar un programa que lea el código, el precio actual y el nuevo precio de los productos de un
+almacén. La lectura finaliza al ingresar el producto con el código 32767, el cual debe procesarse.
+Para cada producto leido, el programa deberá indicar si el nuevo precio del producto supera en un
+10% al precio anterior.}
 program ejercicio7;
 var
 	codigo:integer;

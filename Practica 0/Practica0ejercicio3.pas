@@ -1,3 +1,5 @@
+{3. Implemente un programa que lea dos números reales e imprima el resultado de la división de
+los mismos con una precisión de dos decimales.}
 program ejercicio3;
 var 
 	numero1, numero2: real;

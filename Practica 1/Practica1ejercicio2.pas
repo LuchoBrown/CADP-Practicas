@@ -1,3 +1,4 @@
+{2. Realizar un programa que lea un número real e imprima su valor absoluto.}
 program ejercicio2;
 var
 	num: real;
