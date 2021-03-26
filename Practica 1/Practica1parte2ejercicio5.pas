@@ -3,7 +3,7 @@ ingrese el número 100, el cual debe procesarse. Informar en pantalla:
 ◦ El número máximo leído.
 ◦ El número mínimo leído.
 ◦ La suma total de los números leídos.}
-program ejercicio14;
+program ejercicio5;
 var
     num,max,min,suma:integer;
 begin

@@ -2,7 +2,7 @@
 se lee código y precio (cada código es un número entre 1 y 200). Informar en pantalla:
 - Los códigos de los dos productos más baratos.
 - La cantidad de productos de más de 16 pesos con código par.}
-program ejercicio16;
+program ejercicio6;
 var
     i,codigo,codmin1,codmin2,prodpar:integer;
     precio, preciomin1, preciomin2:real;

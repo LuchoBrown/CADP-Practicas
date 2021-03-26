@@ -1,6 +1,6 @@
 {4. Realizar un programa que lea 1000 números enteros desde teclado. Informar en pantalla cuáles son
 los dos números mínimos leídos.}
-program ejercicio13;
+program ejercicio4;
 var
     num,min1,min2,i: integer;
 begin

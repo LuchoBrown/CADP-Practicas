@@ -2,7 +2,7 @@
 los dos números mínimos leídos.
 a. Modifique el ejercicio anterior para que, en vez de leer 1000 números, la lectura finalice al leer
 el número 0, el cual debe procesarse.}
-program ejercicio13A;
+program ejercicio4A;
 var
     num,min1,min2: integer;
 begin

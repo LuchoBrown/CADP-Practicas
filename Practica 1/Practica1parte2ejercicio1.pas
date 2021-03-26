@@ -1,6 +1,6 @@
 {1. Realizar un programa que lea 10 números enteros e informe la suma total de los números leídos.
  a. Modifique el ejercicio 1 para que además informe la cantidad de números mayores a 5}
-program ejercicio10;
+program ejercicio1;
 var
     num,suma,mayor5,i:integer;
 begin

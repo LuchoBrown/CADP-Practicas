@@ -2,7 +2,7 @@
 números:
 a. Utilizando una variable adicional
 b. Sin utilizar una variable adicional}
-program ejercicioDosB;
+program ejercicio2B;
 var 
 	numero1, numero2, suma: integer;
 begin

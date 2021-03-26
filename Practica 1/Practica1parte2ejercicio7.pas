@@ -3,7 +3,7 @@ autos se lee el nombre del piloto y el tiempo total que le tomó finalizar la ca
 participaron 100 autos. Informar en pantalla:
 - Los nombres de los dos pilotos que finalizaron en los dos primeros puestos.
 - Los nombres de los dos pilotos que finalizaron en los dos últimos puestos.}
-program ejercicio16;
+program ejercicio7;
 var
     i:integer;
     nom,nomrap1,nomrap2,nomlen1,nomlen2:string;

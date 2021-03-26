@@ -4,7 +4,7 @@ lee el monto 0. Se asume un mes de 31 días. Informar la cantidad de ventas por 
 total acumulado en ventas de todo el mes.
     a) Modifique el ejercicio anterior para que además informe el día en el que se realizó la
     mayor cantidad de ventas.}
-program ejercicio17;
+program ejercicio8;
 var
     monto, montotal:real;
     i,ventas,ventasmax,ventastotal,diamax:integer;

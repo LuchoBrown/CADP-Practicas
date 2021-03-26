@@ -2,7 +2,7 @@
     Modifique el programa anterior para que, además de informar el mayor número leído, se
     informe el número de orden, dentro de la secuencia, en el que fue leído. Por ejemplo, si se lee la
     misma secuencia}
-program ejercicio11;
+program ejercicio2;
 var
     i,num,max,ordenmax:integer;
 begin

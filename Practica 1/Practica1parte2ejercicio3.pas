@@ -4,7 +4,7 @@ número entre 1 y 10). La lectura finaliza cuando se lee el nombre “Zidane Zin
 procesarse. Al finalizar la lectura informar:
 - La cantidad de alumnos aprobados (nota 8 o mayor) y
 - la cantidad de alumnos que obtuvieron un 7 como nota}
-program ejercicio12;
+program ejercicio3;
 var
     nombre: string;
     nota:real;
